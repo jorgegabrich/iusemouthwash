@@ -1,0 +1,36 @@
+<!-- Portfolio -->
+        <section id="portfolio" class="portfolio" ng-controller="PostController">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1 text-center">
+                        <h2>Weekly Habits</h2>
+                        <hr class="small">
+                        <div class="row">
+                            <div class="col-md-6" ng-repeat="pl in postData">
+                                <div class="portfolio-item">
+                                    <a href="{{pl.url}}" class="portfolio-box">
+                                        <img class="img-portfolio img-responsive hover" ng-src="{{pl.image}}">
+                                        <div class="portfolio-box-caption">
+                                            <div class="portfolio-box-caption-content">
+                                                <div class="project-category text-faded">
+
+                                                </div>
+                                                <div class="project-name">
+                                                    {{pl.title}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                        <!-- /.row (nested) -->
+                        
+                    </div>
+                    <!-- /.col-lg-10 -->
+                    <a href="#" class="btn btn-dark">View More Posts</a>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </section>

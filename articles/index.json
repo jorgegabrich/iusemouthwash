@@ -1,0 +1,39 @@
+[
+        { 
+            "id": "4",
+            "title": "Five Ways Penguins Are Changing The World",
+            "subtitle": "",
+            "date": "04-2016",
+            "url": "#/articles/five-ways-penguins-are-changing-the-world",
+            "image": "/articles/five-ways-penguins-are-changing-the-world/portfolio.jpg"
+            
+        },
+        { 
+            "id": "3",
+            "title": "2016's Alpaca Hat Trends",
+            "subtitle": "",
+            "date": "03-2016",
+            "url": "#/articles/2016s-alpaca-hat-trends",
+            "image": "/articles/2016s-alpaca-hat-trends/portfolio.jpg"
+            
+        },
+        { 
+            "id": "2",
+            "title": "BZM Is Shapping Black Zebras Rights",
+            "subtitle": "",
+            "date": "02-2016",
+            "url": "#/articles/bzm-is-shapping-black-zebras-rights",
+            "image": "/articles/bzm-is-shapping-black-zebras-rights/portfolio.jpg"
+            
+        },
+        { 
+            "id": "1",
+            "title": "Find Out What Dogs Are Eating",
+            "subtitle": "",
+            "date": "01-2016",
+            "url": "#/articles/find-out-what-dogs-are-eating",
+            "image": "/articles/find-out-what-dogs-are-eating/portfolio.jpg"
+            
+        }
+        
+    ]
