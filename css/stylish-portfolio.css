@@ -20,6 +20,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    
 }
 
 .bg-primary {
@@ -231,6 +232,9 @@ hr.small {
     visibility: hidden;
     
 }
+.portfolio-column{
+    font-size: 18px;
+}
 .portfolio-box {
     position: relative;
     display: block;
@@ -268,9 +272,7 @@ hr.small {
     margin: 0 auto;
 }
 
-.img-portfolio:hover {
-    opacity: 0.8;
-}
+
 
 /* Call to Action */
 
